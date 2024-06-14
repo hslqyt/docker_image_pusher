@@ -1,6 +1,4 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+rancher/rancher-agent:v2.7.3
+rancher/shell:v0.1.19
+rancher/rancher-webhook:v0.3.11
+rancher/fleet-agent:v0.6.0
