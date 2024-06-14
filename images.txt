@@ -2,3 +2,4 @@ rancher/rancher-agent:v2.7.3
 rancher/shell:v0.1.19
 rancher/rancher-webhook:v0.3.11
 rancher/fleet-agent:v0.6.0
+docker.io/calico/kube-controllers:v3.24.1
