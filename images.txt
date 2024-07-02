@@ -11,3 +11,7 @@ labring/kubernetes:v1.25.6
 labring/helm:v3.8.2
 labring/calico:v3.24.1
 rancher/shell:v0.1.19
+registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.7.0
+registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.10.0
+grafana/grafana:9.3.16
+quay.io/prometheus/blackbox-exporter:v0.23.0
