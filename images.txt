@@ -17,3 +17,4 @@ grafana/grafana:9.3.16
 quay.io/prometheus/blackbox-exporter:v0.23.0
 jimmidyson/configmap-reload:v0.5.0
 timonwong/prometheus-webhook-dingtalk:v2.1.0
+rancher/rancher:v2.7.3
