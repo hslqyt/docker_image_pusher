@@ -21,6 +21,7 @@
 #timonwong/prometheus-webhook-dingtalk:v2.1.0
 
 rancher/rancher:v2.7.3
+rancher/fleet-agent:v0.8.5
 rancher/fleet:v0.8.5
 rancher/tekton-utils:v0.1.44
 rancher/gitjob:v0.8.8
