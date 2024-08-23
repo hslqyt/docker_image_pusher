@@ -5,6 +5,7 @@
 #registry.k8s.io/pause:3.8
 #registry.k8s.io/etcd:3.5.6-0
 #registry.k8s.io/coredns/coredns:v1.9.3
+index.docker.io/cloudtogouser/pageplug-ce:v1.9.37
 
 #labring/kubernetes:v1.25.6
 #labring/helm:v3.8.2
@@ -20,10 +21,10 @@
 #jimmidyson/configmap-reload:v0.5.0
 #timonwong/prometheus-webhook-dingtalk:v2.1.0
 
-rancher/rancher:v2.7.3
-rancher/fleet-agent:v0.8.5
-rancher/fleet:v0.8.5
-rancher/tekton-utils:v0.1.44
-rancher/gitjob:v0.8.8
-rancher/mirrored-kube-state-metrics-kube-state-metrics:v2.6.0
-rancher/mirrored-prometheus-operator-prometheus-operator:v0.59.1
+#rancher/rancher:v2.7.3
+#rancher/fleet-agent:v0.8.5
+#rancher/fleet:v0.8.5
+#rancher/tekton-utils:v0.1.44
+#rancher/gitjob:v0.8.8
+#rancher/mirrored-kube-state-metrics-kube-state-metrics:v2.6.0
+#rancher/mirrored-prometheus-operator-prometheus-operator:v0.59.1
