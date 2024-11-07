@@ -7,7 +7,7 @@
 #registry.k8s.io/coredns/coredns:v1.9.3
 
 #index.docker.io/cloudtogouser/pageplug-ce:v1.9.37
-python:3.7-slim-stretch
+#python:3.7-slim-stretch
 
 #labring/kubernetes:v1.25.6
 #labring/helm:v3.8.2
@@ -30,3 +30,5 @@ python:3.7-slim-stretch
 #rancher/gitjob:v0.8.8
 #rancher/mirrored-kube-state-metrics-kube-state-metrics:v2.6.0
 #rancher/mirrored-prometheus-operator-prometheus-operator:v0.59.1
+rancher/rancher-webhook:v0.3.13
+
