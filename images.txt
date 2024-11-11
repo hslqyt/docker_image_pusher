@@ -30,5 +30,5 @@
 #rancher/gitjob:v0.8.8
 #rancher/mirrored-kube-state-metrics-kube-state-metrics:v2.6.0
 #rancher/mirrored-prometheus-operator-prometheus-operator:v0.59.1
-rancher/rancher-webhook:v0.3.13
-
+#rancher/rancher-webhook:v0.3.13
+redis:7.0.11-alpine
