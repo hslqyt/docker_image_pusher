@@ -36,4 +36,5 @@ rancher/mirrored-prometheus-node-exporter:v1.3.1
 #redis:7.0.14-alpine
 #haproxy:2.6.14-alpine
 
-mysql:latest
+#mysql:latest
+nanssye/xxxbot-pad:latest
